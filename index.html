@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>XnO Pro</title>
     <style>
         * {
             margin: 0;
@@ -27,6 +27,7 @@
         }
 
         .mainBox {
+            margin-top: 30px;
             width: 350px;
             display: flex;
             flex-wrap: wrap;
@@ -69,6 +70,7 @@
             gap: 1rem;
         }
     </style>
+    <link rel="manifest" href="manifest.json">
 </head>
 
 <body>
@@ -173,7 +175,7 @@
             if (rwc1 || rwc2 || rwc3 || rwc4 || rwc5 || rwc6 || rwc7 || rwc8) {
                 document.getElementById("output").innerHTML = `
                 <div class="alert">
-                    <h1>Red Is Winner</h1>
+                    <h1>Red Is Winner🎊</h1>
                 </div>
                 `
                 player1WinCount++
@@ -193,7 +195,7 @@
             if (gwc1 || gwc2 || gwc3 || gwc4 || gwc5 || gwc6 || gwc7 || gwc8) {
                 document.getElementById("output").innerHTML = `
                 <div class="alert">
-                    <h1>Green Is Winner</h1>
+                    <h1>Green Is Winner🎊</h1>
                 </div>
                 `
                 player2WinCount++
