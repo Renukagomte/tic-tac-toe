@@ -1,15 +1,18 @@
-# Tic Tac Toe
 
-Tic Tac Toe is a classic game played between two players on a 3x3 grid. This version of the game is built with HTML, CSS and JavaScript. 
+# Tic-Tac-Toe
+This is a Tic-Tac-Toe game built with HTML, CSS, and JavaScript.  
+
+## Prerequisites
+You will need a web browser.
+
+## Installation
+Simply open the `index.html` file in your web browser to play the game.
 
 ## Game Play
+Players take turns placing their X's and O's on the board, with the goal of creating a horizontal, vertical, or diagonal row of three of their symbols. The first player to do so wins the game.
 
-The game is played between two players, who alternate turns. On their turn, each player must place either an "X" or an "O" in an empty square on the grid. The first player to get three of their symbols in a row or column wins the game.
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Getting Started
-
-To play the game, simply open the index.html file in a web browser.
-
-## Technical Details
-
-The game is built using HTML, CSS and JavaScript. The HTML provides the structure of the game board, while the CSS provides styling. The JavaScript handles the logic of the game, including checking for a winner and handling user input.
+## License
+This project is licensed under the MIT License.
