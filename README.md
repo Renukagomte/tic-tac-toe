@@ -1,18 +1,35 @@
 
-# Tic-Tac-Toe
-This is a Tic-Tac-Toe game built with HTML, CSS, and JavaScript.  
 
-## Prerequisites
-You will need a web browser.
+# Awesome Tic Tac Toe Multiplayer Game
 
-## Installation
-Simply open the `index.html` file in your web browser to play the game.
+Build with Html, Css and Vanilla JavaScript.
 
-## Game Play
-Players take turns placing their X's and O's on the board, with the goal of creating a horizontal, vertical, or diagonal row of three of their symbols. The first player to do so wins the game.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Authors
 
-## License
-This project is licensed under the MIT License.
+- [@renuka](https://github.com/Renukagomte/tic-tac-toe)
+
+
+## Features
+
+- User friendly interface
+- Responsive design
+- 2-player mode
+- Keep score
+- Keeps Draw Counts
+
+
+## 🚀 About Me
+Name: Renuka Gomte 
+Age: 21
+
+Location: Aurangabad, Maharashtra 
+Profession: Full Stack Developer 
+Experience: 1 years 
+Specialties: React, Node.js, HTML/CSS, JavaScript, Redux, RTK Query.
+Education: Bachelor's Degree in Science and Technology 
+Certifications: Certified Full Stack Developer 
+Bio: Renuka is a passionate full stack developer with 1 years of experience in developing web applications. He is extremely competent with React, Node.js, HTML/CSS, JavaScript, Redux, RTK Query. He holds a Bachelor's Degree in Science and Technology and is a Certified Full Stack Developer. He is always looking for new challenges to hone his skills and work on interesting projects.
+
+
+
